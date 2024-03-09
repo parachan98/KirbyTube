@@ -1,0 +1,5 @@
+/incl/config.php
+/content/*
+composer.phar
+/vendor/
+composer.lock

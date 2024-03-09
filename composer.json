@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-ffmpeg/php-ffmpeg": "^1.1",
+        "softcreatr/php-mime-detector": "^3.2"
+    }
+}
